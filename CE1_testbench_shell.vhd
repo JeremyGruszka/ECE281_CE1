@@ -120,6 +120,8 @@ BEGIN
 		B <= '1';
 		C <= '1';
 		wait for 100 ns;
+		
+		-- end of truth table
 
       wait;
    end process;
