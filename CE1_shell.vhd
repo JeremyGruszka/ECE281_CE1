@@ -47,5 +47,7 @@ D <= A and B_NOT;
 E <= B and C;
 F <= D or E;
 
+-- hello world
+
 end Behavioral;
 
