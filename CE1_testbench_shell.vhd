@@ -121,7 +121,8 @@ BEGIN
 		C <= '1';
 		wait for 100 ns;
 		
-		-- end of truth table
+		-- end of truth tables
+		
 
       wait;
    end process;
